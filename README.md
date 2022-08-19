@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohitbedwal9
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on Google
 - 📫 You can reach me on instagram/@rohitbedwal9
 
