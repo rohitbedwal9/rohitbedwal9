@@ -1,7 +1,6 @@
  # Hey, I'm Rohit 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NextJS
-- 💞️ I’m looking to collaborate on Google
+- 🌱 I’m currently learning Python
 - 📫 You can reach me on https://www.linkedin.com/in/rohitbedwal9
 
 
