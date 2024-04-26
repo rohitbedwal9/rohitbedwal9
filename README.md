@@ -1,6 +1,6 @@
  # Hey, I'm Rohit 
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web/Mobile Development
+- 🌱 I’m currently learning Flutter
 - 📫 You can reach me on https://www.linkedin.com/in/rohitbedwal9
 
 
